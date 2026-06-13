@@ -1,0 +1,8 @@
+{
+  "name": "安序助眠",
+  "package": "com.anxuzhumian.app",
+  "packageName": "com.anxuzhumian.app",
+  "description": "安序相伴，一夜好眠。纯本地、无广告的极简治愈助眠伴侣。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
